@@ -57,7 +57,7 @@ public class RoomReservation {
     }
 
     //  other methods  //
-    public void ConfirmReservation() {
+    public void confirmReservation() {
         this.IsConfirmed = true;
     }
 }
