@@ -106,4 +106,5 @@ public class Room {
     public void setHasAirConditioning(Boolean hasAirConditioning) {
         this.hasAirConditioning = hasAirConditioning;
     }
+
 }
