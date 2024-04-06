@@ -1,1 +1,2 @@
-Place your code in this package!
+MARCIN SZNIP
+JAKUB WIECZOREK
