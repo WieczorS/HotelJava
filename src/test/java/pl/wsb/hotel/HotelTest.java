@@ -131,7 +131,7 @@ public class HotelTest {
 
     @Test
     void testRoomReservationConstructorAndGetters() {
-        Client client = new Client("1", "John", "Doe", LocalDate.of(1990, 1, 1), "john.doe@example.com", "123456789", "123 Main St", "12345", "Anytown");
+        Client client = new Client("1", "John", "Doea", LocalDate.of(1990, 1, 1), "john.doe@example.com", "123456789", "123 Main St", "12345", "Anytown");
         Room room = new Room("101", "Standard Room", 25.0, 1, true, false, true, false, true);
 
         RoomReservation reservation = new RoomReservation(LocalDate.of(2024, 4, 10), client, room);
